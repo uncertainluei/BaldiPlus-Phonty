@@ -1,10 +1,5 @@
-Shield: [![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
+# This project is archived.
 
-This work is licensed under a
-[Creative Commons Attribution-NonCommercial 4.0 International License][cc-by-nc].
+I had plans of completely reworking the mod (and character) to be more faithful to its source material, which I dropped once I realized that would make the mod less of a direct port of an abandoned port made by someone else unaware and rather an indirect homage to EternityDev, someone who I do not want to support in this day and age.
 
-[![CC BY-NC 4.0][cc-by-nc-image]][cc-by-nc]
-
-[cc-by-nc]: https://creativecommons.org/licenses/by-nc/4.0/
-[cc-by-nc-image]: https://licensebuttons.net/l/by-nc/4.0/88x31.png
-[cc-by-nc-shield]: https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg
+The source code will still be up for those who just want to port past BB+ 0.11, but do note that I won't be supporting these.
